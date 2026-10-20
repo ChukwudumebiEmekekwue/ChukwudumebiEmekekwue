@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dumebi Emekekwue 👋
 
-<!--
-**ChukwudumebiEmekekwue/ChukwudumebiEmekekwue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solutions Architect & Full-Stack Builder** | 17+ years shipping platforms across fintech, aviation, e-commerce, and SaaS.
 
-Here are some ideas to get you started:
+## 🔭 What I'm building
+- **[FlyEmpty.ng](https://flyempty.ng)** - Nigeria's marketplace for empty-leg private jet flights
+- **[WorksMail](https://worksmail.co)** - Secure SaaS email management platform
+- **[Web2App](https://web2app.ng)** - Turn websites into Android apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+`JavaScript` `PHP` `Python` `React` `Node.js` `MySQL` `REST APIs` `AI-Assisted Development`
+
+## 📫 Reach me
+- [LinkedIn](https://linkedin.com/in/dumebi-emekekwue)
+- Email: dumebi.dulue@gmail.com
