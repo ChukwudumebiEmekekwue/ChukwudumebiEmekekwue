@@ -1,4 +1,4 @@
-# Hi, I'm Dumebi Emekekwue 👋
+# Hi, I'm Chukwudumebi Emekekwue 👋
 
 **Solutions Architect & Full-Stack Builder** | 17+ years shipping platforms across fintech, aviation, e-commerce, and SaaS.
 
